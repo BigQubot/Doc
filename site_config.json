@@ -2,7 +2,7 @@
     "site_name": "teedoc",
     "site_slogon": "happy to write",
     "site_root_url": "/Doc/",
-    "site_domain": "bigqubot.github.io/Doc",
+    "site_domain": "bigqubot.github.io",
     "site_protocol": "https",
     "config_template_dir": "config",
     "source": "https://github.com/BigQubot/BigQubot.github.io/Doc/blob/main",
