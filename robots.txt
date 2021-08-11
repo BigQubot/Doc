@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://bigqubot.github.io/Doc/sitemap.xml
